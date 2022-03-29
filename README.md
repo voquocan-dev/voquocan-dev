@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Andy Võ</h1>
 
-<h3 align="center">Open for work at entry level smart contract developer</h3>
 <h3 align="center">Smart Contract / Blockchain Developer from Vietnam</h3>
 <p align="center">🌱 I’m currently learning about Smart Contracts and Web3</p>
 <p align="center">👀 I’m interested in building innovative dApps</p>
