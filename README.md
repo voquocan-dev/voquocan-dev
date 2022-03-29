@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy Võ</h1>
-<h3 align="center">A passionate smart contract developer from Vietnam</h3>
+<h3 align="center">Smart contract / Blockchain Developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity, Web3js**
 
 - 📫 How to reach me **voandy57@gmail.com**
 
