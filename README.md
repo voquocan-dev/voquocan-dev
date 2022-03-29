@@ -9,5 +9,5 @@
 </h3>
 </p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fr3aking&show_icons=true&locale=en" alt="fr3aking" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fr3aking&show_icons=true&locale=en" alt="fr3aking" /></p>
 
