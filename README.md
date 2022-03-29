@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Võ</h1>
+<br/>
 <h3 align="center">Smart contract / Blockchain Developer from Vietnam<i class="flag flag-vietnam"></i></h3>
 
 - 🌱 I’m currently learning **Solidity, Web3js**
