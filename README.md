@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Andy Võ</h1>
-
-<h3 align="center">Smart Contract / Blockchain Developer from Vietnam</h3>
-<p align="center">🌱 I’m currently learning about Smart Contracts and Web3</p>
-<p align="center">👀 I’m interested in building innovative dApps</p>
+<h1 align="center">Hi there, I'm Andy Võ</h1>
+<p align="center">I'm a Fresher Smart Contract Engineer, Junior Python Developer and interested in building innovative dApps!<p>
 <p align="center">📫 Reach me at <a href="mailto:voandy57@gmail.com">voandy57@gmail.com</a></p>
 
 <h3 align="center">Connect with me: 
