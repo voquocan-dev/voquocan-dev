@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Andy Võ</h1>
-<p align="center">I'm a Fresher Smart Contract Engineer, Junior Python Developer and interested in building innovative dApps!<p>
+<p align="center">I'm a Fresher Smart Contract Engineer, Junior Python Developer and I'm very interested in building innovative dApps!<p>
 <p align="center">Reach me at <a href="mailto:voandy57@gmail.com">voandy57@gmail.com</a></p>
 
 <h3 align="center">Connect with me: 
