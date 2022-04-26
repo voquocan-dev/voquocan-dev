@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Andy Võ</h1>
+<h1 align="center">Hi there 👋, I'm Andy</h1>
 <p align="center">I'm a Blockchain Engineer, Python Developer and I'm very interested in building innovative dApps!<p>
 <p align="center">Reach me at <a href="mailto:voandy57@gmail.com">voandy57@gmail.com</a></p>
 
